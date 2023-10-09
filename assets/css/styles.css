@@ -1,0 +1,33 @@
+body {
+  background: #EFEFEE;
+}
+
+#title {
+}
+
+#first-separator {
+  padding: 25px;
+  background: white;
+  margin-bottom: 4rem;
+}
+
+#image {
+  background-repeat: no-repeat;
+  max-width: 100% !important;
+}
+
+#img-div {
+}
+
+#img-caption {
+  margin-top: 20px;
+}
+
+img {
+  display: block;
+}
+
+p {
+  text-align: center;
+}
+
